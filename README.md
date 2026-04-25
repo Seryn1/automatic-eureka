@@ -1,0 +1,2 @@
+# automatic-eureka
+Next.js
