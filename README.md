@@ -1,2 +1,2 @@
 # automatic-eureka
-Next.js
+my-app
